@@ -1,6 +1,7 @@
 ![coollogo_com-29511832](https://github.com/gg2774/gg2774/assets/135232724/4697725b-a265-4b4c-91fe-599b04ca5f44)
 
-                  <h3><a href="#"><b>BSSN</b></a></h3>
+
+<h3><a href="#"><b>BSSN</b></a></h3>
 
 
 <p style="text-align: justify">President of the Republic of Indonesia, Joko Widodo has signed Presidential Regulation Number 28 of 2021 concerning the National Cyber and Crypto Agency on 13 April 2021. The issuance of the Presidential Regulation was based on the need to organize the agency in the context of realizing national cyber security, protection and sovereignty as well as increasing the national economic growth. This regulation was issued To optimize the implementation of duties and functions in the field of cyber and encryption security, a more effective and efficient BSSN organization is needed.</p>
