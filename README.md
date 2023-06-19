@@ -20,3 +20,12 @@
 √ <a href="https://bssn.go.id/indeks-kami/">Indeks Keamanan Informasi (Indeks KAMI)</a> 
 √ <a href="https://bssn.go.id/paman-kami/">Penilaian Mandiri Keamanan Informasi (PAMAN KAMI)</a>
 
+Member Of :
+![cert](https://github.com/gg2774/gg2774/assets/135232724/665bdc54-fad8-4ddb-8737-982aa1b08696)
+![apcert](https://github.com/gg2774/gg2774/assets/135232724/e8a54cf8-b535-4aff-983e-93f7af504fcb)
+![first](https://github.com/gg2774/gg2774/assets/135232724/c0316578-330b-47f4-b5fe-cb3d216fd675)
+![oiccert](https://github.com/gg2774/gg2774/assets/135232724/f300d67e-df92-4272-bc34-fa32d5521fc1)
+
+
+
+
