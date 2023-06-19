@@ -19,3 +19,6 @@
 <a href="../halaman/tentang/tugas-dan-fungsi-bssn.html">Tugas dan Fungsi</a>
 <a href="https://bssn.go.id/indeks-kami/">Indeks Keamanan Informasi (Indeks KAMI)</a>
 <a href="https://bssn.go.id/paman-kami/">Penilaian Mandiri Keamanan Informasi (PAMAN KAMI)</a>
+
+
+<p style="text-align: justify">The BSSN now handles all duties and functions in the field of encryption at Lemsaneg, as well as information security, securing the use of internet protocol-based telecommunications networks, and security of the existing telecommunications network and infrastructure at the Ministry of Communication and Informatics.</p>
