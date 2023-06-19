@@ -1,5 +1,3 @@
-![Screenshot_2023-06-18-21-36-06-510_com rhmsoft code-edit](https://github.com/gg2774/gg2774/assets/135232724/820ac44a-0e00-4e83-b5da-8fa79c9b17a8)
-
 
 - 👋 Hi, I’m @PapaUnc
 - 👀 I’m interested in ...
