@@ -1,8 +1,5 @@
 ![coollogo_com-29511832](https://github.com/gg2774/gg2774/assets/135232724/4697725b-a265-4b4c-91fe-599b04ca5f44)
 
-![Screenshot_2023-06-20-03-53-39-322_com whatsapp](https://github.com/gg2774/gg2774/assets/135232724/f642d82d-68ec-4eda-9fec-a47dced1a263)
-
-
 
 <h3><a href="#"><b>BSSN</b></a></h3>
 
